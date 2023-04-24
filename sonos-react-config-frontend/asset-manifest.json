@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.59119a19.css",
+    "main.js": "./static/js/main.b9526793.js",
+    "static/media/AktivGrotesk-Light.woff": "./static/media/AktivGrotesk-Light.3f6873ec1762fc1396d6.woff",
+    "static/media/AktivGrotesk-Medium.woff": "./static/media/AktivGrotesk-Medium.a7528025bd67a2d32cf3.woff",
+    "static/media/AktivGrotesk-Regular.woff": "./static/media/AktivGrotesk-Regular.1fbf7401b973a600fd88.woff",
+    "static/media/AktivGrotesk-Bold.woff": "./static/media/AktivGrotesk-Bold.c81aef2b60aa2ce60a2f.woff",
+    "static/media/AktivGrotesk-Light.woff2": "./static/media/AktivGrotesk-Light.342ab7442981bb91d318.woff2",
+    "static/media/AktivGrotesk-Medium.woff2": "./static/media/AktivGrotesk-Medium.009fe5dfaae412df7cde.woff2",
+    "static/media/AktivGrotesk-Regular.woff2": "./static/media/AktivGrotesk-Regular.2e301016fb0c08e0fbfb.woff2",
+    "static/media/AktivGrotesk-Bold.woff2": "./static/media/AktivGrotesk-Bold.3b42794a5191247bada0.woff2",
+    "static/media/AktivGrotesk-Thin.woff": "./static/media/AktivGrotesk-Thin.cdca858c5b24dae3b0ce.woff",
+    "static/media/AktivGrotesk-Black.woff": "./static/media/AktivGrotesk-Black.24a80966398c47df366a.woff",
+    "static/media/AktivGrotesk-Thin.woff2": "./static/media/AktivGrotesk-Thin.d0854425be4547a4bc1a.woff2",
+    "static/media/AktivGrotesk-Black.woff2": "./static/media/AktivGrotesk-Black.7a12c4ea7dc31ee8bdff.woff2",
+    "index.html": "./index.html",
+    "main.59119a19.css.map": "./static/css/main.59119a19.css.map",
+    "main.b9526793.js.map": "./static/js/main.b9526793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59119a19.css",
+    "static/js/main.b9526793.js"
+  ]
+}
